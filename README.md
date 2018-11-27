@@ -1,2 +1,2 @@
 # OpenCV_notes
-basic notes and practice code about 
+basic notes and practice code about OpenCV
